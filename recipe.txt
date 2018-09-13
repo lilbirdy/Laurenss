@@ -1,0 +1,21 @@
+Version 1:
+
+Order asian food
+wait for the food
+eat the asian food
+
+
+Version 2:
+
+Order asian food 
+wait for the delivery.
+pay for your food.
+Eat the asian food.
+
+
+Version 3:
+
+Order asian food.
+Jump arround.
+Pay for your food.
+Eat the food.
