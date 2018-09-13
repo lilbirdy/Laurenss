@@ -18,4 +18,4 @@ Version 3:
 Order asian food.
 Jump arround.
 Pay for your food.
-Eat the food.
+throw the food away.
